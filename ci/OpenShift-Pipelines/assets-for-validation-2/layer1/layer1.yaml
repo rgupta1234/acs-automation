@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - env:
-        image: quay.io/marrober/layers:latest
+        image: quay.io/marrober/layers:1.1
         imagePullPolicy: Always
         name: layer1
         ports:
