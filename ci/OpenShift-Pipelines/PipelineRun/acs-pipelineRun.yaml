@@ -15,7 +15,7 @@ spec:
   - name: git-revision
     value: main
   - name: file-location-in-git-repo
-    value: ci/OpenShift-Pipelines/assets-for-validation
+    value: ci/OpenShift-Pipelines/assets-for-validation2
   - name: recursive-search
     value: "true"
   workspaces:
