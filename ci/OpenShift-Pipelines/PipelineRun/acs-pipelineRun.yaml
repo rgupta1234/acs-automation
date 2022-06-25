@@ -11,7 +11,7 @@ spec:
   - name: acs_api_token
     value: acs-secret
   - name: git-url
-    value: https://github.com/marrober/acs-automation.git
+    value: https://github.com/rgupta1234/acs-automation.git
   - name: git-revision
     value: main
   - name: file-location-in-git-repo
